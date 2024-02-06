@@ -1,9 +1,0 @@
-# CSCC01 Lab 3
-
-# dependencies
-node_modules/
-package-lock.json
-yarn.lock
-
-# database
-data/
